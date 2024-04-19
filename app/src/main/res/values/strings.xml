@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string-array name="kategoria">
+        <item>strategiczna</item>
+        <item>karciana</item>
+        <item>logiczna</item>
+    </string-array>
+</resources>
